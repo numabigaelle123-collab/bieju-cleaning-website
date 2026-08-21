@@ -1,20 +1,17 @@
-BIEJU Cleaning Services Website
+BIEJU Cleaning Services — Updated Website
 
-Files:
+Main files:
 - index.html
 - styles.css
 - script.js
+- bieju-team.webp
+- cleaning-kitchen.webp
+- cleaning-bathroom.webp
 
-How to preview:
-1. Open index.html in Chrome, Edge, Safari, or Firefox.
-2. The website works locally on phone/computer once hosted.
+The quote form does not collect payment or store customer data. It prepares a message the customer can send by SMS or email.
 
-Important before publishing:
-- Add your real business phone number.
-- Add your real business email.
-- Choose your exact service area.
-- Confirm pricing before advertising it publicly.
-- Do not claim "insured" or "bonded" unless that is actually true.
+Photo sources added in this version:
+- Pexels photo 6196692 by Tima Miroshnichenko (free to use)
+- Pexels photo 5591492 by RDNE Stock project (free to use)
 
-The quote form does not collect payment or send data to a server.
-It prepares a customer message that can be copied and sent to you.
+Before publishing, confirm the phone number, email address, service area, and any business claims.
